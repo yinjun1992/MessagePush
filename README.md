@@ -1,2 +1,1 @@
-# MessagePush
-a message push service
+# Message push service
